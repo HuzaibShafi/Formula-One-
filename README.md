@@ -1,2 +1,2 @@
-# Formula-One-
+# Formula-One
 Formula One
